@@ -1,24 +1,24 @@
-# ZA Developers Slack - Code of Conduct
+# ZA Tech Slack - Code of Conduct
 
 ## TL;DR
 
 * Be respectful of others
 * Do not harass others
 * Do not share personal information of others to people outside the community
-* Job opportunities can be posted in [#work-opportunities](https://zadevelopers.slack.com/messages/work-opportunities/), professional recruitment is not allowed
-* Don't spam the channels with links, or links to pages, for the purpose of monetization of user views and which provide no value to the ZA Developer community
+* Job opportunities can be posted in [#jobpostings](https://zatech.slack.com/messages/jobpostings/), professional recruitment is not allowed
+* Don't spam the channels with links, or links to pages, for the purpose of monetization of user views and which provide no value to the community
 
 This is a safe space, lets keep it that way.
 
 ## Code of Conduct
 
-“ZA Developers” in this document refers to the ZA Developers Slack organization at [https://zadevelopers.slack.com/](https://zadevelopers.slack.com/). “The administrators” refers to the administrators on this organization, a [list is available at the top of the Team Directory](https://zadevelopers.slack.com/team) (must be a member of the organization to view).
+“ZA Tech” in this document refers to the ZA Tech Slack organization at [https://zatech.slack.com/](https://zatech.slack.com/). “The administrators” refers to the administrators on this organization, a [list is available at the top of the Team Directory](https://zatech.slack.com/team) (must be a member of the organization to view).
 
-ZA Developers is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
+ZA Tech is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
-This code of conduct applies to all ZA Developers spaces, including public channels, private channels and direct messages, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the administrators.
+This code of conduct applies to all ZA Tech spaces, including public channels, private channels and direct messages, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the administrators.
 
-Some ZA Developers spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
+Some ZA Tech spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
 Harassment includes:
 
@@ -41,27 +41,27 @@ Harassment includes:
 
 ## Conduct specific to recruitment activities
 
-The ZA Developers group, and its admins, acknowledge that finding skilled developers in South Africa is a serious problem that needs serious attention. However, the ZA Developers slack channel is first and foremost a safe space for developers to talk, share and collaborate. Therefore, the following are specific conditions regarding recruitment, and recruitment opportunities.
+The ZA Tech group, and its admins, acknowledge that finding skilled people in South Africa is a serious problem that needs serious attention. However, the ZA Tech slack channel is first and foremost a safe space for people to talk, share and collaborate. Therefore, the following are specific conditions regarding recruitment, and recruitment opportunities.
 
-* Professional recruiters are regrettably not allowed access to the ZA Developers group under any circumstances.
-* Users (including admins) may not under any circumstances share personal details of ZA Developers members with recruiters without that user's explicit consent.
-* Advertising an opportunity in brief within the [#work-opportunities channel](https://zadevelopers.slack.com/messages/work-opportunities/) is acceptable. Further discussions must happen via direct messages.
+* Professional recruiters are regrettably not allowed access to the ZA Tech group under any circumstances.
+* Users (including admins) may not under any circumstances share personal details of ZA Tech members with recruiters without that user's explicit consent.
+* Advertising an opportunity in brief within the [#jobpostings channel](https://zatech.slack.com/messages/jobpostings/) is acceptable. Further discussions must happen via direct messages.
 * Opportunities must not, under any circumstances, use referral program links where the poster of the message could benefit, e.g. via earning a commission.
 
 We value being able to attract talent to our teams, and a brief message should allow it. New teams in particular are encouraged to post a "We're hiring" message.
 
 ## Reporting
 
-If you are being harassed by a member of ZA Developers, notice that someone else is being harassed, or have any other concerns, please [contact an admin](https://zadevelopers.slack.com/team) directly via DM. Administrators will respond as soon as they are able. If the person who is harassing you is on the admin team, they will recuse themselves from handling your incident.
+If you are being harassed by a member of ZA Tech, notice that someone else is being harassed, or have any other concerns, please [contact an admin](https://zatech.slack.com/team) directly via DM. Administrators will respond as soon as they are able. If the person who is harassing you is on the admin team, they will recuse themselves from handling your incident.
 
-This code of conduct applies to ZA Developers spaces, but if you are being harassed by a member of ZA Developers outside of our spaces, we still want to know about it. We will take all good-faith reports of harassment by ZA Developers members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from ZA Developers based on their past behavior, including behavior outside ZA Developers spaces and behavior towards people who are not members of the ZA Developers community.
+This code of conduct applies to ZA Tech spaces, but if you are being harassed by a member of ZA Tech outside of our spaces, we still want to know about it. We will take all good-faith reports of harassment by ZA Tech members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from ZA Tech based on their past behavior, including behavior outside ZA Tech spaces and behavior towards people who are not members of the ZA Tech community.
 
 In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
 
-We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of ZA Developers members or the general public. We will not name harassment victims without their affirmative consent.
+We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of ZA Tech members or the general public. We will not name harassment victims without their affirmative consent.
 
 ## Acceptable Content
-The ZA Developers community is a collection of professional developers, as such it is expected that the content made available by members of the community should at all times adhere to the acceptable content policy. This policy is intended to protect the community's image, as well as the image of its members, through restrictions on certain classes of content which may be deemed to be unsuitable in a work or family context.
+The ZA Tech community is a collection of professionals, as such it is expected that the content made available by members of the community should at all times adhere to the acceptable content policy. This policy is intended to protect the community's image, as well as the image of its members, through restrictions on certain classes of content which may be deemed to be unsuitable in a work or family context.
 
 Classes of content which we deem to be unsuitable include:
 
@@ -69,21 +69,19 @@ Classes of content which we deem to be unsuitable include:
  - Depictions of physical or emotional abuse, either in graphic or text form.
  - Persecution of any individual as a result of their race, gender, religion or other physical traits.
  - Material intended to, without basis, harm the reputation of any individual whether a member or not.
- - Unsolicited advertising with the exception of job offers in the [#work-opportunities](https://zadevelopers.slack.com/messages/work-opportunities/) channel.
- - Links, or links to pages, for the purpose of monetization of user views and which provide no value to the ZA Developer community.
+ - Unsolicited advertising with the exception of job offers in the [#jobpostings](https://zatech.slack.com/messages/jobpostings/) channel.
+ - Links, or links to pages, for the purpose of monetization of user views and which provide no value to the ZA Tech community.
 
-As a quick self-check, ask yourself whether you would like someone's child to see the content you are posting. If the answer is "no", then there's a good chance you shouldn't be posting it on the ZA Developers community.
+As a quick self-check, ask yourself whether you would like someone's child to see the content you are posting. If the answer is "no", then there's a good chance you shouldn't be posting it on the ZA Tech community.
 
 ## Consequences
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from all ZA Developers spaces and identification of the participant as a harasser to other ZA Developers members and/or the general public.
+If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from all ZA Tech spaces and identification of the participant as a harasser to other ZA Tech members and/or the general public.
 
 ## Changes
-This code of conduct is subject to change as circumstances require, all current members of the ZA Developers community will be notified through the [#code-of-conduct](https://zadevelopers.slack.com/messages/code-of-conduct/) channel prior to these changes taking effect.
-
-If you feel there are aspects to this code of conduct which should be modified, please open a pull request with your suggested changes at [https://github.com/zadev/code-of-conduct](https://github.com/zadev/code-of-conduct).
+If you feel there are aspects to this code of conduct which should be modified, please open a pull request with your suggested changes at [https://github.com/zatech/code-of-conduct](https://github.com/zatech/code-of-conduct).
 
 ## Credits
 
