@@ -8,7 +8,7 @@
 * Job opportunities can be posted in [#jobpostings](https://zatech.slack.com/messages/jobpostings/), professional recruitment is not allowed
 * Don't spam the channels with links, or links to pages, for the purpose of monetization of user views and which provide no value to the community
 
-This is a safe space, lets keep it that way.
+This is a safe space, let's keep it that way.
 
 ## Code of Conduct
 
