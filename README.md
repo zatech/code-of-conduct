@@ -86,4 +86,4 @@ If you feel there are aspects to this code of conduct which should be modified, 
 
 ## Credits
 
-This Code of Conduct is heavily based on the [LGBTQ in Tech Code of Conduct](http://lgbtq.technology/coc.html) and the [Offline First Code of Conduct for Slack](http://offlinefirst.org/coc).
+This Code of Conduct is heavily based on the [LGBTQ in Tech Code of Conduct](http://lgbtq.technology/coc.html) and the [Offline First Code of Conduct for Slack](http://offlinefirst.org/code-of-conduct/).
