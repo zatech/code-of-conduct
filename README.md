@@ -90,9 +90,8 @@ If a participant engages in harassing behavior, the administrators may take any 
 
 Channels may be publicly archived at the discretion of the channel owner or the team admins. This serves three purposes:
  
-1. To get around the 10,000 message limit in free Slack teams
-2. To retain valuable information for future team members and the general public, and
-3. To promote healthy discourse in all the channels.
+1. To retain valuable information for future team members and the general public, and
+2. To promote healthy discourse in all the channels.
 
 The archives are available online to the public at [http://zatech.slackarchive.io](http://zatech.slackarchive.io).
 
