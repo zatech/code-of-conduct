@@ -88,7 +88,7 @@ If a participant engages in harassing behavior, the administrators may take any 
 
 ## Public archiving
 
-Channels may be publicly archived at the discretion of the channel owner or the team admins. This serves three purposes:
+Channels may be publicly archived at the discretion of the channel owner or the team admins. This serves two purposes:
  
 1. To retain valuable information for future team members and the general public, and
 2. To promote healthy discourse in all the channels.
