@@ -6,10 +6,15 @@
 * Be respectful of others
 * Do not harass others
 * Do not share personal information of others to people outside the community
+* Do not divulge privileged information of any company, to anyone in our team
 * Job opportunities can be posted in [#jobpostings](https://zatech.slack.com/messages/jobpostings/), professional recruitment is not allowed
-* Don't spam the channels with links, or links to pages, for the purpose of monetization of user views and which provide no value to the community
+* Don't spam the channels with links, or links to pages, for the purpose of monetization of user views and which provide no value to the ZA Tech community
+* Select channels are publicly archived and searchable at [http://zatech.slackarchive.io](http://zatech.slackarchive.io)
 
-This is a safe space, let's keep it that way.
+
+Acting according to our code of conduct should not leave you in an embarrassing situation. That said, be careful never to divulge any personal or confidential information in Slack. Apart from the public archiving we have no control over how anybody else in the team could be logging and using the information provided by anyone else.
+
+This is a safe space, lets keep it that way.
 
 ## Code of Conduct
 
@@ -81,7 +86,44 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from all ZA Tech spaces and identification of the participant as a harasser to other ZA Tech members and/or the general public.
 
+## Public archiving
+
+Channels may be publicly archived at the discretion of the channel owner or the team admins. This serves three purposes:
+ 
+1. To get around the 10,000 message limit in free Slack teams
+2. To retain valuable information for future team members and the general public, and
+3. To promote healthy discourse in all the channels.
+
+The archives are available online to the public at [http://zatech.slackarchive.io](http://zatech.slackarchive.io).
+
+### Which channels are archived?
+
+This can vary over time. Have a look at [http://zatech.slackarchive.io](http://zatech.slackarchive.io), or check in the channel members for the `@archivebot` bot user.
+
+### How can I get my channel archived?
+
+Bots in Slack cannot automatically join channels, they have to be invited. So invite `@archivebot` by entering `/invite @archivebot` into the message box in Slack, in the channel you want the logger invited to.
+
+### What about private conversations?
+
+Slack supports private channels and direct messages to facilitate "off the record" conversations. If you need to, please make use of those features. At the time archiving was enabled (August 2016), nearly 75% of all team communication happened in direct messages and private channels. 
+
+We feel this requirement is adequately covered by the above built-in Slack feature, but please be aware that this does not preclude the possiblility that anyone else could be recording your private conversations. 
+
+### How can I get the logger removed from a channel?
+
+If someone accidentally enabled archiving, or you want the logger removed later, ask one of the team administrators to kick `@archivebot` from the channel. 
+
+We would generally like to discourage disabling archiving long after the fact.
+
+### How do I get a message removed from the archives?
+
+In the (hopefully rare) even that you'd want a message removed from the archives, contact the team admins with a direct link to the message to be removed. The admins can then pass it on to Slack Archive for removal. Alternatively just send a request to `hello AT slackarchive DOT io` directly.
+
 ## Changes
+
+This code of conduct is subject to change as circumstances require, all current members of the ZA Tech community will be notified through the [#codeofconduct](https://zatech.slack.com/messages/codeofconduct/) channel prior to these changes taking effect.
+
 If you feel there are aspects to this code of conduct which should be modified, please open a pull request with your suggested changes at [https://github.com/zatech/code-of-conduct](https://github.com/zatech/code-of-conduct).
 
 ## Credits
