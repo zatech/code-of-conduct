@@ -82,6 +82,8 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from all ZA Tech spaces and identification of the participant as a harasser to other ZA Tech members and/or the general public.
 
+Intentionally evading exclusions, bans, suspensions, restrictions, or otherwise interfering with the admin team's decisions and actions are not permitted.
+
 ## Terms and Conditions
 The Operators may, but are not obligated to, monitor or review any areas on the Slack where users transmit or post communications or communicate solely with each other, including but not limited to public and private channels, and the content of any such communications. The Operators, however, will have no liability related to the content of any such communications, whether or not arising under the laws of copyright, libel, privacy, obscenity, or otherwise. The Operators may edit or remove content on the the Slack at their discretion at any time.
 
