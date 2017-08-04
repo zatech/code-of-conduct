@@ -45,7 +45,7 @@ Harassment includes:
 
 The ZA Tech group, and its admins, acknowledge that finding skilled people in South Africa is a serious problem that needs serious attention. However, the ZA Tech slack channel is first and foremost a safe space for people to talk, share and collaborate. Therefore, the following are specific conditions regarding recruitment, and recruitment opportunities.
 
-* Professional recruiters are regrettably not allowed access to the ZA Tech group under any circumstances.
+* Unsolicited professional recruiting is not allowed on the ZA Tech group under any circumstances.
 * Users (including admins) may not under any circumstances share personal details of ZA Tech members with recruiters without that user's explicit consent.
 * Advertising an opportunity in brief within the [#jobpostings channel](https://zatech.slack.com/messages/jobpostings/) is acceptable. Further discussions must happen via direct messages.
 * Opportunities must not, under any circumstances, use referral program links where the poster of the message could benefit, e.g. via earning a commission.
