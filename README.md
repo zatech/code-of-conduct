@@ -6,7 +6,7 @@
 * Be respectful of others
 * Do not harass others
 * Do not share personal information of others to people outside the community
-* All content must be "safe for work"
+* All content must be "safe for work", and not violate any copyright or content laws.
 * Job opportunities can be posted in [#jobpostings](https://zatech.slack.com/messages/jobpostings/), professional recruitment is not allowed
 * Don't spam the channels with links, or links to pages, for the purpose of monetization of user views and which provide no value to the community
 
@@ -76,11 +76,18 @@ Classes of content which we deem to be unsuitable include:
 
 As a quick self-check, ask yourself whether you would like someone's child to see the content you are posting. If the answer is "no", then there's a good chance you shouldn't be posting it on the ZA Tech community.
 
+### Copyright and User Submissions
+ZATech Slack prohibits the use of this platform for the sharing, distribution or linking of any copyright infringing material, outside of material deemed to be in the public domain, or where such use is protected under Fair Use. 
+
+ZATech Slack will remove such links and materials, and repeated offences may lead to account suspension or permanent banning. 
+
+ZATech Slack does not endorse or condone user's content or remarks, and while every effort is made to ensure users adhere to the terms of this code of conduct, ZATech Slack cannot be held accountable for user submitted content.
+
 ## Consequences
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+Participants asked to stop any code-ofconduct violating behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from all ZA Tech spaces and identification of the participant as a harasser to other ZA Tech members and/or the general public.
+If a participant continues to engage in violation of such a request, the administrators may take any action they deem appropriate, up to and including suspension or expulsion from the ZATech Slack space.
 
 Intentionally evading exclusions, bans, suspensions, restrictions, or otherwise interfering with the admin team's decisions and actions are not permitted.
 
