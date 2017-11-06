@@ -77,17 +77,17 @@ Classes of content which we deem to be unsuitable include:
 As a quick self-check, ask yourself whether you would like someone's child to see the content you are posting. If the answer is "no", then there's a good chance you shouldn't be posting it on the ZA Tech community.
 
 ### Copyright and User Submissions
-ZATech Slack prohibits the use of this platform for the sharing, distribution or linking of any copyright infringing material, outside of material deemed to be in the public domain, or where such use is protected under Fair Use. 
+The ZA Tech admins prohibits the use of this platform for the sharing, distribution or linking of any copyright infringing material, outside of material deemed to be in the public domain, or where such use is protected under Fair Use. 
 
-ZATech Slack will remove such links and materials, and repeated offences may lead to account suspension or permanent banning. 
+ZA Tech will remove such links and materials, and repeated offences may lead to account suspension or permanent banning. 
 
-ZATech Slack does not endorse or condone user's content or remarks, and while every effort is made to ensure users adhere to the terms of this code of conduct, ZATech Slack cannot be held accountable for user submitted content.
+ZA Tech  does not endorse or condone user's content or remarks, and while every effort is made to ensure users adhere to the terms of this code of conduct, ZA Tech cannot be held accountable for user submitted content.
 
 ## Consequences
 
-Participants asked to stop any code-ofconduct violating behavior are expected to comply immediately.
+Participants asked to stop any Code of Conduct violating behavior are expected to comply immediately.
 
-If a participant continues to engage in violation of such a request, the administrators may take any action they deem appropriate, up to and including suspension or expulsion from the ZATech Slack space.
+If a participant continues to engage in violation of such a request, the administrators may take any action they deem appropriate, up to and including suspension or expulsion from all ZA Tech spaces.
 
 Intentionally evading exclusions, bans, suspensions, restrictions, or otherwise interfering with the admin team's decisions and actions are not permitted.
 
