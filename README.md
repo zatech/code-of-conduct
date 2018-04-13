@@ -52,6 +52,10 @@ The ZA Tech group, and its admins, acknowledge that finding skilled people in So
 
 We value being able to attract talent to our teams, and a brief message should allow it. New teams in particular are encouraged to post a "We're hiring" message.
 
+## Unsolicited private messages (DMs)
+
+While the community aims to be a place for members of the community to meet and connect, it's also important to respect each other's privacy. If you feel as though a service you provide or business you run may be of use to another member, please respect their privacy and first ask public if you may contact them about such discussions before sending unsolicited messages.
+
 ## Reporting
 
 If you are being harassed by a member of ZA Tech, notice that someone else is being harassed, or have any other concerns, please [contact an admin](https://zatech.slack.com/team) directly via DM. Administrators will respond as soon as they are able. If the person who is harassing you is on the admin team, they will recuse themselves from handling your incident.
