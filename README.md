@@ -54,7 +54,7 @@ We value being able to attract talent to our teams, and a brief message should a
 
 ## Unsolicited private messages (DMs)
 
-While the community aims to be a place for members of the community to meet and connect, it's also important to respect each other's privacy. If you feel as though a service you provide or business you run may be of use to another member, please respect their privacy and first ask public if you may contact them about such discussions before sending unsolicited messages.
+While the community aims to be a place for members of the community to meet and connect, it's also important to respect each other's privacy. If you feel as though a service you provide or business you run may be of use to another member, please respect their privacy and first ask publicly if you may contact them about such discussions before sending unsolicited messages.
 
 ## Reporting
 
