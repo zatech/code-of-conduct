@@ -79,7 +79,7 @@ Classes of content which we deem to be unsuitable include:
  - Material intended to, without basis, harm the reputation of any individual whether a member or not.
  - Unsolicited advertising with the exception of job offers in the [#jobpostings](https://zatech.slack.com/messages/jobpostings/) channel.
  - Links, or links to pages, for the purpose of monetization of user views and which provide no value to the ZA Tech community.
- - Content infringing on copyright laws
+ - Content infringing on copyright laws.
 
 As a quick self-check, ask yourself whether you would like someone's child to see the content you are posting. If the answer is "no", then there's a good chance you shouldn't be posting it on the ZA Tech community.
 
