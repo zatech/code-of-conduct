@@ -14,7 +14,7 @@ This is a safe space, let's keep it that way.
 
 ## Code of Conduct
 
-“ZA Tech” in this document refers to the ZA Tech Slack organization at [https://zatech.slack.com/](https://zatech.slack.com/). “The administrators” refers to the administrators on this organization, a [list is available at the top of the Team Directory](https://zatech.slack.com/team) (must be a member of the organization to view).
+“ZA Tech” in this document refers to the ZA Tech Slack organization at [https://zatech.slack.com/](https://zatech.slack.com/). “The administrators” refers to the administrators on this organization, which can be accessed [here](https://zatech.slack.com/team), or by accessing "Workspace Directory" in the top-right drop-down menu on the web. (You must be a member of the organization to view.)
 
 ZA Tech is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
