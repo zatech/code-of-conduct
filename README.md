@@ -69,6 +69,8 @@ We will respect confidentiality requests for the purpose of protecting victims o
 ## Acceptable Content
 The ZA Tech community is a collection of professionals, as such it is expected that the content made available by members of the community should at all times adhere to the acceptable content policy. This policy is intended to protect the community's image, as well as the image of its members, through restrictions on certain classes of content which may be deemed to be unsuitable in a work or family context.
 
+Links to content are deemed as acceptable as the content within.
+
 Classes of content which we deem to be unsuitable include:
 
  - Pornographic or sexually suggestive material, either in graphic or text form.
@@ -77,6 +79,7 @@ Classes of content which we deem to be unsuitable include:
  - Material intended to, without basis, harm the reputation of any individual whether a member or not.
  - Unsolicited advertising with the exception of job offers in the [#jobpostings](https://zatech.slack.com/messages/jobpostings/) channel.
  - Links, or links to pages, for the purpose of monetization of user views and which provide no value to the ZA Tech community.
+ - Content infringing on copyright laws.
 
 As a quick self-check, ask yourself whether you would like someone's child to see the content you are posting. If the answer is "no", then there's a good chance you shouldn't be posting it on the ZA Tech community.
 
