@@ -12,6 +12,18 @@
 
 This is a safe space, let's keep it that way.
 
+## Guidelines
+
+Be kind. Don't be snarky. Comments should get more thoughtful and substantive, not less, as a topic gets more divisive.
+
+When disagreeing, please reply to the argument instead of calling names. "That is idiotic; 1 + 1 is 2, not 3" can be shortened to "1 + 1 is 2, not 3."
+
+Please respond to the strongest plausible interpretation of what someone says, not a weaker one that's easier to criticize. Assume good faith.
+
+Eschew flamebait. Don't introduce flamewar topics unless you have something genuinely new to say. Avoid unrelated controversies and generic tangents.
+
+Please don't post shallow dismissals, especially of other people's work, thoughts or opinions. A good critical comment teaches us something.
+
 ## Code of Conduct
 
 “ZA Tech” in this document refers to the ZA Tech Slack organization at [https://zatech.slack.com/](https://zatech.slack.com/). “The administrators” refers to the administrators on this organization, a [list is available at the top of the Team Directory](https://zatech.slack.com/team) (must be a member of the organization to view).
