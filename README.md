@@ -70,7 +70,11 @@ While the community aims to be a place for members of the community to meet and 
 
 ## Reporting
 
-If you are being harassed by a member of ZA Tech, notice that someone else is being harassed, or have any other concerns, please [contact an admin](https://zatech.slack.com/team) directly via DM. Administrators will respond as soon as they are able. If the person who is harassing you is on the admin team, they will recuse themselves from handling your incident.
+If you are being harassed by a member of ZA Tech, notice that someone else is being harassed, or have any other concerns there are a few methods for reporting. Administrators will respond as soon as they are able. If the person who is harassing you is on the admin team, they will recuse themselves from handling your incident. Listed from most public to most anonymous:
+
+* Post a message in the [#codeofconduct channel](https://zatech.slack.com/messages/codeofconduct/)
+* DM an [administrator](https://zatech.slack.com/account/workspace-settings#admins)
+* Submit an [anonymous report](https://zatech.co.za/report)
 
 This code of conduct applies to ZA Tech spaces, but if you are being harassed by a member of ZA Tech outside of our spaces, we still want to know about it. We will take all good-faith reports of harassment by ZA Tech members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from ZA Tech based on their past behavior, including behavior outside ZA Tech spaces and behavior towards people who are not members of the ZA Tech community.
 
