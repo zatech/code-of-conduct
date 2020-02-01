@@ -24,6 +24,8 @@ Eschew flamebait. Don't introduce flamewar topics unless you have something genu
 
 Please don't post shallow dismissals, especially of other people's work, thoughts or opinions. A good critical comment teaches us something.
 
+ZATech is intended to be an overlapping series of professional groups and it is encouraged that everyone uses the name they go by in everyday life. Always knowing who you're connecting with helps keep you and the rest of our community safe from impersonation, scams and phishing and also allows you to be more approachable when building your online reputation. Pretending to be anything or anyone is discouraged.
+
 ## Code of Conduct
 
 “ZA Tech” in this document refers to the ZA Tech Slack organization at [https://zatech.slack.com/](https://zatech.slack.com/). “The administrators” refers to the administrators on this organization, which can be accessed [here](https://zatech.slack.com/account/workspace-settings#admins), or by accessing "Workspace Directory" in the top-right drop-down menu on the web, and from the settings button next to name and title select `Admins`. (You must be a member of the organization to view.)
