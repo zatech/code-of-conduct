@@ -3,7 +3,7 @@
 ## TL;DR
 
 * Don't be a troll
-* Be respectful of others
+* Be respectful of others, including non-members
 * Do not harass others
 * Do not share personal information of others to people outside the community
 * All content must be "safe for work"
