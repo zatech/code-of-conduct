@@ -72,7 +72,9 @@ While the community aims to be a place for members of the community to meet and 
 
 If you are being harassed by a member of ZA Tech, notice that someone else is being harassed, or have any other concerns there are a few methods for reporting. Administrators will respond as soon as they are able. If the person who is harassing you is on the admin team, they will recuse themselves from handling your incident. Listed from most public to most anonymous:
 
-* Post a message in the [#codeofconduct channel](https://zatech.slack.com/messages/codeofconduct/)
+* Create a private channel with the admins
+  * Create a private channel called `admins-$YOUR_USERNAME`, e.g. `admins-cdanvers`
+  * Invite the admin team to your new private channel using `/invite @adminteam`
 * DM an [administrator](https://zatech.slack.com/account/workspace-settings#admins)
 * Submit an [anonymous report](https://zatech.co.za/report)
 
