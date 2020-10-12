@@ -1,4 +1,4 @@
-# ZA Tech Slack - Code of Conduct
+# ZATech Slack - Code of Conduct
 
 ## TL;DR
 
@@ -26,13 +26,13 @@ Please don't post shallow dismissals, especially of other people's work, thought
 
 ## Code of Conduct
 
-“ZA Tech” in this document refers to the ZA Tech Slack organization at [https://zatech.slack.com/](https://zatech.slack.com/). “The administrators” refers to the administrators on this organization, which can be accessed [here](https://zatech.slack.com/account/workspace-settings#admins), or by accessing "Workspace Directory" in the top-right drop-down menu on the web, and from the settings button next to name and title select `Admins`. (You must be a member of the organization to view.)
+“ZATech” in this document refers to the ZATech Slack organization at [https://zatech.slack.com/](https://zatech.slack.com/). “The administrators” refers to the administrators on this organization, which can be accessed [here](https://zatech.slack.com/account/workspace-settings#admins), or by accessing "Workspace Directory" in the top-right drop-down menu on the web, and from the settings button next to name and title select `Admins`. (You must be a member of the organization to view.)
 
-ZA Tech is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
+ZATech is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
-This code of conduct applies to all ZA Tech spaces, including public channels, private channels and direct messages, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the administrators.
+This code of conduct applies to all ZATech spaces, including public channels, private channels and direct messages, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the administrators.
 
-Some ZA Tech spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
+Some ZATech spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
 Harassment includes:
 
@@ -55,10 +55,10 @@ Harassment includes:
 
 ## Conduct specific to recruitment activities
 
-The ZA Tech group, and its admins, acknowledge that finding skilled people in South Africa is a serious problem that needs serious attention. However, the ZA Tech slack channel is first and foremost a safe space for people to talk, share and collaborate. Therefore, the following are specific conditions regarding recruitment, and recruitment opportunities.
+The ZATech group, and its admins, acknowledge that finding skilled people in South Africa is a serious problem that needs serious attention. However, the ZATech slack channel is first and foremost a safe space for people to talk, share and collaborate. Therefore, the following are specific conditions regarding recruitment, and recruitment opportunities.
 
-* Unsolicited professional recruiting is not allowed on the ZA Tech group under any circumstances.
-* Users (including admins) may not under any circumstances share personal details of ZA Tech members with recruiters without that user's explicit consent.
+* Unsolicited professional recruiting is not allowed on the ZATech group under any circumstances.
+* Users (including admins) may not under any circumstances share personal details of ZATech members with recruiters without that user's explicit consent.
 * Advertising an opportunity in brief within the [#jobpostings channel](https://zatech.slack.com/messages/jobpostings/) is acceptable. Further discussions must happen via direct messages.
 * Opportunities must not, under any circumstances, use referral program links where the poster of the message could benefit, e.g. via earning a commission.
 
@@ -70,7 +70,7 @@ While the community aims to be a place for members of the community to meet and 
 
 ## Reporting
 
-If you are being harassed by a member of ZA Tech, notice that someone else is being harassed, or have any other concerns there are a few methods for reporting. Administrators will respond as soon as they are able. If the person who is harassing you is on the admin team, they will recuse themselves from handling your incident. Listed from most public to most anonymous:
+If you are being harassed by a member of ZATech, notice that someone else is being harassed, or have any other concerns there are a few methods for reporting. Administrators will respond as soon as they are able. If the person who is harassing you is on the admin team, they will recuse themselves from handling your incident. Listed from most public to most anonymous:
 
 * Create a private channel with the admins
   * Create a private channel called `admins-$YOUR_USERNAME`, e.g. `admins-cdanvers`
@@ -78,14 +78,14 @@ If you are being harassed by a member of ZA Tech, notice that someone else is be
 * DM an [administrator](https://zatech.slack.com/account/workspace-settings#admins)
 * Submit an [anonymous report](https://zatech.co.za/report)
 
-This code of conduct applies to ZA Tech spaces, but if you are being harassed by a member of ZA Tech outside of our spaces, we still want to know about it. We will take all good-faith reports of harassment by ZA Tech members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from ZA Tech based on their past behavior, including behavior outside ZA Tech spaces and behavior towards people who are not members of the ZA Tech community.
+This code of conduct applies to ZATech spaces, but if you are being harassed by a member of ZATech outside of our spaces, we still want to know about it. We will take all good-faith reports of harassment by ZATech members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from ZATech based on their past behavior, including behavior outside ZATech spaces and behavior towards people who are not members of the ZATech community.
 
 In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
 
-We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of ZA Tech members or the general public. We will not name harassment victims without their affirmative consent.
+We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of ZATech members or the general public. We will not name harassment victims without their affirmative consent.
 
 ## Acceptable Content
-The ZA Tech community is a collection of professionals, as such it is expected that the content made available by members of the community should at all times adhere to the acceptable content policy. This policy is intended to protect the community's image, as well as the image of its members, through restrictions on certain classes of content which may be deemed to be unsuitable in a work or family context.
+The ZATech community is a collection of professionals, as such it is expected that the content made available by members of the community should at all times adhere to the acceptable content policy. This policy is intended to protect the community's image, as well as the image of its members, through restrictions on certain classes of content which may be deemed to be unsuitable in a work or family context.
 
 Links to content are deemed as acceptable as the content within.
 
@@ -96,16 +96,16 @@ Classes of content which we deem to be unsuitable include:
  - Persecution of any individual as a result of their race, gender, religion or other physical traits.
  - Material intended to, without basis, harm the reputation of any individual whether a member or not.
  - Unsolicited advertising with the exception of job offers in the [#jobpostings](https://zatech.slack.com/messages/jobpostings/) channel.
- - Links, or links to pages, for the purpose of monetization of user views and which provide no value to the ZA Tech community.
+ - Links, or links to pages, for the purpose of monetization of user views and which provide no value to the ZATech community.
  - Content infringing on copyright laws.
 
-As a quick self-check, ask yourself whether you would like someone's child to see the content you are posting. If the answer is "no", then there's a good chance you shouldn't be posting it on the ZA Tech community.
+As a quick self-check, ask yourself whether you would like someone's child to see the content you are posting. If the answer is "no", then there's a good chance you shouldn't be posting it on the ZATech community.
 
 ## Consequences
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from all ZA Tech spaces and identification of the participant as a harasser to other ZA Tech members and/or the general public.
+If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from all ZATech spaces and identification of the participant as a harasser to other ZATech members and/or the general public.
 
 Intentionally evading exclusions, bans, suspensions, restrictions, or otherwise interfering with the admin team's decisions and actions are not permitted.
 
