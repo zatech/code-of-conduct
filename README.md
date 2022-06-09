@@ -92,7 +92,7 @@ Links to content are deemed as acceptable as the content within.
 
 Classes of content which we deem to be unsuitable include:
 
- - Any COVID-19 related discussions in public except for in #vaccination-celebrations
+ - Any COVID-19 related discussions in public except for in #vaccination-celebration
  - Pornographic or sexually suggestive material, either in graphic or text form.
  - Depictions of physical or emotional abuse, either in graphic or text form.
  - Persecution of any individual as a result of their race, gender, religion or other physical traits.
