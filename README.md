@@ -62,7 +62,7 @@ ZATech is first and foremost intended to be a safe space for people to talk, sha
 
 * Unsolicited recruiting of any sort is not allowed on ZATech under any circumstances.
 * Users (including admins) may not under any circumstances share personal details of ZATech members with recruiters without that user's explicit consent.
-* Advertising an opportunity for which you are the employer of record within the [#jobpostings channel](https://zatech.slack.com/messages/jobpostings/). More information on this process is available on the [wiki](https://wiki.zatech.co.za/jobpostings).
+* Advertising an opportunity for which you are the employer of record is allowed within the [#jobpostings channel](https://zatech.slack.com/messages/jobpostings/). More information on this process is available on the [wiki](https://wiki.zatech.co.za/jobpostings).
 * If you are a professional recruiter, i.e. someone who earns a commission by placing talent for clients you may contact [Nic (@n1c)](https://zatech.slack.com/team/U03A23LJZ) or join [#jobpostings-recruiters](https://zatech.slack.com/messages/jobpostings-recruiters) to discuss posting in the #jobpostings channel for a fee.
 * Opportunities must not, under any circumstances, use referral program links where the poster of the message could benefit, e.g. via earning a commission.
 
