@@ -5,9 +5,8 @@
 * Don't be a troll
 * Be respectful of others, including non-members
 * Do not harass others
-* Do not share personal information of others to people outside the community
 * All content must be "safe for work"
-* Job opportunities can be posted in [#jobpostings](https://zatech.slack.com/messages/C1RAZB24S), professional recruitment is not allowed
+* Do not share personal information of others to people outside the community
 * Don't spam the channels with links, or links to pages, for the purpose of monetization of user views and which provide no value to the community
 
 This is a safe space, let's keep it that way.
@@ -53,20 +52,19 @@ Harassment includes:
 * Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse
 * Publication of non-harassing private communication
 
-## Conduct specific to recruitment activities
-
-The ZATech group, and its admins, acknowledge that finding skilled people in South Africa is a serious problem that needs serious attention. However, the ZATech slack channel is first and foremost a safe space for people to talk, share and collaborate. Therefore, the following are specific conditions regarding recruitment, and recruitment opportunities.
-
-* Unsolicited professional recruiting is not allowed on the ZATech group under any circumstances.
-* Users (including admins) may not under any circumstances share personal details of ZATech members with recruiters without that user's explicit consent.
-* Advertising an opportunity in brief within the [#jobpostings channel](https://zatech.slack.com/messages/jobpostings/) is acceptable. Further discussions must happen via direct messages.
-* Opportunities must not, under any circumstances, use referral program links where the poster of the message could benefit, e.g. via earning a commission.
-
-We value being able to attract talent to our teams, and a brief message should allow it. New teams in particular are encouraged to post a "We're hiring" message.
-
 ## Unsolicited private messages (DMs)
 
 While the community aims to be a place for members of the community to meet and connect, it's also important to respect each other's privacy. If you feel as though a service you provide or business you run may be of use to another member, please respect their privacy and first ask publicly if you may contact them about such discussions before sending unsolicited messages.
+
+## Conduct specific to job postings and recruitment activities
+
+ZATech is first and foremost intended to be a safe space for people to talk, share and collaborate. Not somewhere they'll be solicited unless it's expressely requested. Therefore, the following are specific conditions regarding job postings and recruitment.
+
+* Unsolicited recruiting of any sort is not allowed on ZATech under any circumstances.
+* Users (including admins) may not under any circumstances share personal details of ZATech members with recruiters without that user's explicit consent.
+* Advertising an opportunity for which you are the employer of record is allowed within the [#jobpostings channel](https://zatech.slack.com/messages/jobpostings/). More information on this process is available on the [wiki](https://wiki.zatech.co.za/jobpostings).
+* If you are a professional recruiter, i.e. someone who earns a commission by placing talent for clients you may contact [Nic (@n1c)](https://zatech.slack.com/team/U03A23LJZ) or join [#jobpostings-recruiters](https://zatech.slack.com/messages/jobpostings-recruiters) to discuss posting in the #jobpostings channel for a fee.
+* Opportunities must not, under any circumstances, use referral program links where the poster of the message could benefit, e.g. via earning a commission.
 
 ## Reporting
 
