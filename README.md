@@ -35,7 +35,7 @@ There are also slightly adjacent channels such as [#jobpostings](https://zatech.
 
 #### Off topic
 
-We recognize the importance of more casual and generic spaces online 3rd spaces. Therefore, we allow some "off topic" channels to exist. These range from region-based channels (e.g., #capetown) to sports such as #rugby or #f1 and so on.
+We recognize the importance of more casual and generic online 3rd spaces. Therefore, we allow some "off topic" channels to exist. These range from region-based channels (e.g., #capetown) to sports such as #rugby or #f1 and so on.
 
 These off-topic spaces are valuable for networking, community building, and providing a more relaxed environment for members to interact.
 
