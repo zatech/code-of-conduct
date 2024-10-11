@@ -23,6 +23,44 @@ Eschew flamebait. Don't introduce flamewar topics unless you have something genu
 
 Please don't post shallow dismissals, especially of other people's work, thoughts or opinions. A good critical comment teaches us something.
 
+### On topic, off topic and discouraged topics
+
+ZATech aims to provide a space for specific technical communities to gather, share and learn from each other. These form our "on topic" spaces, which are the primary focus of our community.
+
+#### On topic
+
+Our main public channels are dedicated to specific technologies, programming languages, frameworks, and technical disciplines. For example [#php](https://zatech.slack.com/archives/C07AVU84V), [#typescript](https://zatech.slack.com/archives/C6CLD2STG), [#python](https://zatech.slack.com/archives/C07RJNL8N) etc. These spaces are intended for in-depth, focused discussions related to their respective topics.
+
+There are also slightly adjacent channels such as [#jobpostings](https://zatech.slack.com/archives/C1RAZB24S) or [#freelance-discuss](https://zatech.slack.com/archives/C0JEGJ5AT) which are highly valuable to the community.
+
+#### Off topic
+
+We recognize the importance of more casual and generic online 3rd spaces. Therefore, we allow some "off topic" channels to exist. These range from region-based channels (e.g., #capetown) to sports such as #rugby or #f1 and so on.
+
+These off-topic spaces are valuable for networking, community building, and providing a more relaxed environment for members to interact.
+
+#### Discouraged topics
+
+Some topics, while potentially interesting, have shown a tendency to lead to heated debates and conflicts within our community. To maintain a positive and productive environment, we discourage extensive discussions on:
+
+* Politics
+* Religion
+* Controversial current events (e.g. COVID-19)
+* Personal ideologies
+* Divisive social issues
+
+When these topics surface, members often struggle to maintain courteous and curious discussions. Such conversations often quickly escalate into conflicts, detracting from the community's primary purpose and potentially violating our code of conduct (personal attacks, trolling, etc).
+
+It's important to note that we don't aim to create a precise list of disallowed behaviors or topics. Instead, we appeal to general values and the intended spirit of our community. This approach allows for flexibility and interpretation, recognizing that clear-cut rules can lead to semantic arguments and bureaucratic complexities.
+
+There isn't anything more soul destroying than trying to codify every exact topic or context and hair-split every single interaction. This is to say that while there is a high level list of discouraged topics, a lot of very benign and common discussions can be classified under these labels. It isn't anyone's intention to crack down on every single one of these benign discussions. 
+
+The admin team strives to avoid making value judgments on individual beliefs or ideologies. By discouraging certain topics, we aim to create an environment where the focus remains on our shared interests in technology, rather than potentially divisive subjects.
+
+We ask members to be mindful of these guidelines and to avoid conversations that veer into discouraged territory. If you're unsure whether a topic is appropriate, please consult with an admin. Remember, interpretation of these guidelines is necessary, and the admin team is responsible for making these judgments to maintain the community's spirit.
+
+Our goal is to foster a welcoming, inclusive, and productive environment for all members. By focusing on our shared interests in technology and maintaining respectful boundaries, we can ensure that ZATech remains a valuable resource for our community while avoiding the pitfalls of overly specific rules or bureaucratic processes.
+
 ## Code of Conduct
 
 “ZATech” in this document refers to the ZATech Slack organization at [https://zatech.slack.com/](https://zatech.slack.com/). “The administrators” refers to the administrators on this organization, which can be accessed [here](https://zatech.slack.com/account/workspace-settings#admins), or by accessing "Workspace Directory" in the top-right drop-down menu on the web, and from the settings button next to name and title select `Admins`. (You must be a member of the organization to view.)
