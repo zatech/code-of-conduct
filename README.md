@@ -7,7 +7,7 @@
 * Do not harass others
 * All content must be "safe for work"
 * Do not share personal information of others to people outside the community
-* Don't spam the channels with links, or links to pages, for the purpose of monetization of user views and which provide no value to the community
+* Don't post promotional messages that aim to extract value from the community
 
 This is a safe space, let's keep it that way.
 
@@ -60,6 +60,28 @@ The admin team strives to avoid making value judgments on individual beliefs or 
 We ask members to be mindful of these guidelines and to avoid conversations that veer into discouraged territory. If you're unsure whether a topic is appropriate, please consult with an admin. Remember, interpretation of these guidelines is necessary, and the admin team is responsible for making these judgments to maintain the community's spirit.
 
 Our goal is to foster a welcoming, inclusive, and productive environment for all members. By focusing on our shared interests in technology and maintaining respectful boundaries, we can ensure that ZATech remains a valuable resource for our community while avoiding the pitfalls of overly specific rules or bureaucratic processes.
+
+## Promotional messages that aim to extract value
+
+Many people want things from a large community of technical professionals. In many cases, if you need help solving your problem, learning something, or asking for answers, you'll find the community very willing to oblige.
+
+That said, we see a pattern of message from people who join mainly to encourage members from the community to perform some specific action. Some examples include:
+
+* fill in my form/survey
+* give me feedback on my product
+* visit my website or read my article
+* upvote or otherwise support my thing somewhere else
+* apply to or attend this thing that I am promoting
+
+All of these, and any other message that fits into a similar pattern, are strongly discouraged and may be deleted at the discretion of the admin team.
+
+When deciding whether or not a message should be removed, we consider the following
+
+* is the person posting the message a long-standing member of the community with a history of valuable contributions? If yes, then their request is probably OK. If it's a brand new account that joined just to post the promotional message, we'll likely remove.
+* is the message in an appropriate channel? For things that you have built as an individual and want to share with the community, you can use #show. If you want to get input on a survey, we have #surveys. For companies, you can use #shameless-advertising. If your message is in one of these channels, it will be treated more leniently than if it is in the other channels. Again, these channels are mainly intended for people who are already part of the community to share things that they are involved in and want to promote, and if you join to only use these channels, your messages will likely be removed.
+* is your message commercial or intended to lead to some monetary value somehow (buying, selling, signups to commercial products, including fremium ones, surveys on behalf of brands, etc)? We are more lenient, for example, on academic or non-profit surveys than on commercial ones.
+
+As with discouraged content, we deliberately do not codify exactly what is and isn't permitted around promotional messages as it just leads to bad actors finding loopholes and wasting our time. The admin team will use their discretion to remove promotional messages. If you aren't sure if your message will be classified as promotional, feel free to ask before posting.
 
 ## Code of Conduct
 
