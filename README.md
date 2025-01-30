@@ -73,7 +73,7 @@ That said, we see a pattern of message from people who join mainly to encourage 
 * upvote or otherwise support my thing somewhere else
 * apply to or attend this thing that I am promoting
 
-All of these, and any other message that fits into a similar pattern, are generally strongly discouraged and may be deleted at the discretion of the admin team.
+All of these, and any other message that fits into a similar pattern, are strongly discouraged and may be deleted at the discretion of the admin team.
 
 When deciding whether or not a message should be removed, we consider the following
 
