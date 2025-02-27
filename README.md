@@ -118,13 +118,14 @@ While the community aims to be a place for members of the community to meet and 
 
 ## Conduct specific to job postings and recruitment activities
 
-ZATech is first and foremost intended to be a safe space for people to talk, share and collaborate. Not somewhere they'll be solicited unless it's expressely requested. Therefore, the following are specific conditions regarding job postings and recruitment.
+ZATech is first and foremost intended to be a safe space for people to talk, share and collaborate. Not somewhere they'll be solicited unless it's expressly requested. Therefore, the following are specific conditions regarding job postings and recruitment.
 
-* Unsolicited recruiting of any sort is not allowed on ZATech under any circumstances.
+* Unsolicited recruiting of any sort is not allowed on ZATech under any circumstances. Cases of professional recruiters DMing member without their permission will be treated especially strictly and usually lead to an instant ban.
 * Users (including admins) may not under any circumstances share personal details of ZATech members with recruiters without that user's explicit consent.
-* Advertising an opportunity for which you are the employer of record is allowed within the [#jobpostings channel](https://zatech.slack.com/messages/jobpostings/). More information on this process is available on the [wiki](https://wiki.zatech.co.za/jobpostings).
-* If you are a professional recruiter, i.e. someone who earns a commission by placing talent for clients you may contact [Nic (@n1c)](https://zatech.slack.com/team/U03A23LJZ) or join [#jobpostings-recruiters](https://zatech.slack.com/messages/jobpostings-recruiters) to discuss posting in the #jobpostings channel for a fee.
+* Advertising an opportunity for which you are the employer is allowed within the [#jobpostings channel](https://zatech.slack.com/messages/jobpostings/). You should usually be owner or hiring manager of the posting, and at least be employed by company where the position is open. More information on this process is available on the [wiki](https://wiki.zatech.co.za/jobpostings).
+* If you are a professional recruiter, you may not advertise your postings on ZATech. You may reach out to the admin team about having a sponsored post in the channel to help you find candidates. We regard professional recruiters as any person or entity who is paid source candidates for positions for another company, or earns a commission from those position being filled, including recruiting firms, private recruiters, EOR firms who assist their customers with HR, and any similar model.
 * Opportunities must not, under any circumstances, use referral program links where the poster of the message could benefit, e.g. via earning a commission.
+* If you want to advertise an opportunity for another company (e.g. for a friend, as a favour, without any reward), please rather ask someone from the company to join and post directly, or if that is impossible then ask the admin team for permission before posting and explain why.
 
 ## Reporting
 
