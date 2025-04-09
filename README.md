@@ -36,7 +36,7 @@ Our conversation is split into channels. Generally, any discussion should be rel
 
 - Its name
 - Its topic
-- Its Description
+- Its description
 
 ZATech aims to provide a space for specific technical communities to gather, share and learn from each other. We have a mix of what we think of as 'on topic' channels (those that are clearly related to technology and of interest to technical professionals) and 'off topic' channels (those that are more generic, and might be interesting even to non-technical professionals.)
 
@@ -175,6 +175,43 @@ Our goal is to foster a welcoming, inclusive, and productive environment for all
 #### Insults and disrespect
 
 Name calling, vulgar language, and insults are not welcome on our platform. This is equally true whether you're talking to other members (e.g. "You're an idiot") or other people e.g. ("John Smith is an idiot"). You're welcome to express that you don't like something, but keep it professional and polite.
+
+We strongly encourage everyone to engage in a respectful, professional way. This means being respectful and professional to other members of the community, but also to non-community members. For us, respect and professionalism has two aspects
+
+- The content of the discussion (what you're saying)
+- The tone and style of the discussion (how you're saying it)
+
+If you're talking about unacceptable content as described in the section above, then it doesn't matter how eloquently or politely you phrase it, it is off topic and may be removed at the discretion of the admin team.
+
+If you want to express that you disagree or don't like someone or something, then this should be done in a polite, constructive, and respectful fashion.
+
+❌ Steve Jobs is an asshole who ruined Apple
+✅ I think Steve Jobs' character and policies ruined Apple
+
+❌ Only a retard would believe that
+✅ I disagree with your opinion because A, B, C.
+✅ I disagree with your opinion so I'll peace out of this one ✌️
+
+**Name calling and insults**
+
+We strictly do not allow any form of derogatory name calling or insulting. This includes people in and out of the community.
+
+**Assume good intent**
+
+Sometimes people will do the wrong thing in our community. Often (especially new members) are not aware of all of our norms. If someone does something you don't like, you should normally let them know directly before getting the Admin team involved in a disagreement, but you should
+
+* Be friendly and polite
+* Be respectful
+* Assume that it was an honest mistake
+
+For example, if someone posts in the #introductions channel 
+
+> Hey all, I'm Bob, CTO at Acme and we're hiring devs. Also check out our great website!!
+
+Then be nice and let them know about the norm:
+
+✅ Hey Bob - please take a look at the channel topic. You'll notice that this channel is for introducing yourself to the community as a person. It's not for hiring or advertising your company. The @adminteam will probably remove this message.
+❌ READ THE CHANNEL TOPIC BOB. @adminteam delete this.
 
 #### NSFW
 
