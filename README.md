@@ -61,7 +61,28 @@ We ask members to be mindful of these guidelines and to avoid conversations that
 
 Our goal is to foster a welcoming, inclusive, and productive environment for all members. By focusing on our shared interests in technology and maintaining respectful boundaries, we can ensure that ZATech remains a valuable resource for our community while avoiding the pitfalls of overly specific rules or bureaucratic processes.
 
-## Promotional messages that aim to extract value
+### Explicitly discouraged topics
+
+We moderate content that falls into the following categories more strongly:
+
+* Politics
+* Insults and disrespect
+* NSFW
+* Self promotion
+
+#### Politics
+
+Anything relating to politics, but especially political ideology (e.g. left vs right, liberal vs conservative, capitalism vs communism) or specific politicians or parties (e.g. opinions about Ramaposa, Trump, the ANC, the DA, the Republicans) is strongly discouraged. If you want to discuss a political person, party, policy or other event, you should probably do that on other platforms.
+
+#### Insults and disrespect
+
+Name calling, vulgar language, and insults are not welcome on our platform. This is equally true whether you're talking to other members (e.g. "You're an idiot") or other people e.g. ("John Smith is an idiot"). You're welcome to express that you don't like something, but keep it professional.
+
+#### NSFW
+
+Anything with sexual or pornographic themes, whether implicit or explicit, is likely to be removed. If you wouldn't want your child to see it, it probably shouldn't be on ZATech.
+
+#### Self promotion and messages that aim to extract value
 
 Many people want things from a large community of technical professionals. In many cases, if you need help solving your problem, learning something, or asking for answers, you'll find the community very willing to oblige.
 
