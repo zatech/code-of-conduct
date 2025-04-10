@@ -158,7 +158,7 @@ These topics, while potentially interesting, have shown a tendency to lead to he
 
 * Politics, including politicians (e.g. Trump good/bad), political parties (e.g. ANC good/bad), or political ideologies (e.g. Communism good/bad)
 * Religion
-* Controversial current events (e.g. COVID-19)
+* Controversial current events (e.g. COVID-19, climate change)
 * Personal ideologies
 * Divisive social issues
 
