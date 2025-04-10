@@ -139,9 +139,11 @@ Content in the above categories will be immediately removed, and the poster in m
 
 Some content is discouraged by our community, though not illegal or covered under the Unacceptable Content guidelines above.
 
-Whether in on-topic or off-topic channels, the following content is always strongly discouraged. The following categories of content are more heavily moderated and might be removed at the discretion of the Admin team.
+Whether in on-topic or off-topic channels, the following content is always strongly discouraged. 
 
-Content that falls into any of the below categories is strongly discouraged and may be removed by the admin team. People who repeatedly engage in conversations in the following topics might be banned from the community.
+The following categories of content are more heavily moderated and might be removed at the discretion of the Admin team.
+
+People who repeatedly engage in conversations in the following topics might be banned from the community.
 
 * Divisive and controversial content
 * NSFW content
@@ -174,7 +176,7 @@ Our goal is to foster a welcoming, inclusive, and productive environment for all
 
 #### Insults and disrespect
 
-Name calling, vulgar language, and insults are not welcome on our platform. This is equally true whether you're talking to other members (e.g. "You're an idiot") or other people e.g. ("John Smith is an idiot"). You're welcome to express that you don't like something, but keep it professional and polite.
+Name calling, vulgar language, and insults are not welcome on our platform. This is equally true whether you're talking to other members (e.g. "You're an idiot") or other people (e.g. "John Smith is an idiot"). You're welcome to express that you don't like something, but keep it professional and polite.
 
 We strongly encourage everyone to engage in a respectful, professional way. This means being respectful and professional to other members of the community, but also to non-community members. For us, respect and professionalism has two aspects
 
@@ -256,7 +258,6 @@ The Operators may, but are not obligated to, monitor or review any areas on the 
 By posting content on ZATech you are sharing that data with ZATech, with Slack, and with our partners. Members may report content to us that they think violates the code of conduct. Generally, all content is retained indefinitely. 
 
 We further use tools such as LLMs to assist in moderating all content on the platform. Messages you send may be sent to OpenAI as part of our moderation automation tooling. Any such messages are retained by OpenAI for up to 30 days and are not used for training.
-
 
 ## Changes
 
