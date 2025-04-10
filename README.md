@@ -6,15 +6,15 @@
 
 When posting:
 
-* Avoid divisive topics, such as political or relgious debates
+* Avoid divisive topics, such as political or religious debates
 * All content must be family friendly and 'safe for work'
 * Be polite and respectful, including to non-members
 * Don't be self-promotional
 
 In general:
 
-* Do not harrass people
-* Do not share personal information of others to people outside the community
+* Do not harass people
+* Do not share personal information of others with people outside the community
 
 This is a safe space, let's keep it that way.
 
@@ -56,7 +56,7 @@ These off-topic spaces are valuable for networking, community building, and prov
 
 Private channels are invite-only, and often do not include any members of the Admin team. If you create or are invited to a private channel, you are still expected to follow our code of conduct. While we welcome any reports about private channels that break our code of conduct, we cannot directly moderate them by intervening in discussions or removing messages.
 
-## No harrassment, online or offline
+## No harassment, online or offline
 
 ZATech is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
@@ -93,10 +93,10 @@ We take a strong stance to any DM spam. If you send unsolicited self-promotional
 
 ZATech is first and foremost intended to be a safe space for people to talk, share and collaborate. Not somewhere they'll be solicited unless it's expressly requested. Therefore, the following are specific conditions regarding job postings and recruitment.
 
-* Unsolicited recruiting of any sort is not allowed on ZATech under any circumstances. Cases of professional recruiters DMing member without their permission will be treated especially strictly and usually lead to an instant ban.
+* Unsolicited recruiting of any sort is not allowed on ZATech under any circumstances. Cases of professional recruiters DMing members without their permission will be treated especially strictly and usually lead to an instant ban.
 * Users (including admins) may not under any circumstances share personal details of ZATech members with recruiters without that user's explicit consent.
-* Advertising an opportunity for which you are the employer is allowed within the [#jobpostings channel](https://zatech.slack.com/messages/jobpostings/). You should usually be owner or hiring manager of the posting, and at least be employed by company where the position is open. More information on this process is available on the [wiki](https://wiki.zatech.co.za/jobpostings).
-* If you are a professional recruiter, you may not advertise your postings on ZATech. You may reach out to the admin team about having a sponsored post in the channel to help you find candidates. We regard professional recruiters as any person or entity who is paid source candidates for positions for another company, or earns a commission from those position being filled, including recruiting firms, private recruiters, EOR firms who assist their customers with HR, and any similar model.
+* Advertising an opportunity for which you are the employer is allowed within the [#jobpostings channel](https://zatech.slack.com/messages/jobpostings/). You should usually be the owner or hiring manager of the posting, and at least be employed by the company where the position is open. More information on this process is available on the [wiki](https://wiki.zatech.co.za/jobpostings).
+* If you are a professional recruiter, you may not advertise your postings on ZATech. You may reach out to the admin team about having a sponsored post in the channel to help you find candidates. We regard professional recruiters as any person or entity who is paid source candidates for positions for another company, or earns a commission from those positions being filled, including recruiting firms, private recruiters, EOR firms who assist their customers with HR, and any similar model.
 * Opportunities must not, under any circumstances, use referral program links where the poster of the message could benefit, e.g. via earning a commission.
 * If you want to advertise an opportunity for another company (e.g. for a friend, as a favour, without any reward), please rather ask someone from the company to join and post directly, or if that is impossible then ask the admin team for permission before posting and explain why.
 
@@ -150,13 +150,13 @@ People who repeatedly engage in conversations in the following topics might be b
 * Self promotional content
 * Personal insults and vulgar language
 
-Examples and more inforamtion about each of these is given below.
+Examples and more information about each of these is given below.
 
 ### Divisive and highly controversial content
 
 These topics, while potentially interesting, have shown a tendency to lead to heated debates and conflicts within our community. To maintain a positive and productive environment, we strongly discourage extensive discussions on:
 
-* Politics, including politicans (e.g. Trump good/bad), political parties (e.g. ANC good/bad), or political ideologies (e.g. Communism good/bad)
+* Politics, including politicians (e.g. Trump good/bad), political parties (e.g. ANC good/bad), or political ideologies (e.g. Communism good/bad)
 * Religion
 * Controversial current events (e.g. COVID-19)
 * Personal ideologies
@@ -178,7 +178,7 @@ Our goal is to foster a welcoming, inclusive, and productive environment for all
 
 Name calling, vulgar language, and insults are not welcome on our platform. This is equally true whether you're talking to other members (e.g. "You're an idiot") or other people (e.g. "John Smith is an idiot"). You're welcome to express that you don't like something, but keep it professional and polite.
 
-We strongly encourage everyone to engage in a respectful, professional way. This means being respectful and professional to other members of the community, but also to non-community members. For us, respect and professionalism has two aspects
+We strongly encourage everyone to engage in a respectful, professional way. This means being respectful and professional to other members of the community, but also to non-community members. For us, respect and professionalism has two aspects:
 
 - The content of the discussion (what you're saying)
 - The tone and style of the discussion (how you're saying it)
@@ -223,7 +223,7 @@ Anything with sexual or pornographic themes, whether implicit or explicit, is li
 
 Many people want things from a large community of technical professionals. In many cases, if you need help solving your problem, learning something, or asking for answers, you'll find the community very willing to oblige.
 
-That said, we see a pattern of message from people who join mainly to encourage members from the community to perform some specific action. Some examples include:
+That said, we see a pattern of messages from people who join mainly to encourage members from the community to perform some specific action. Some examples include:
 
 * fill in my form/survey
 * give me feedback on my product
@@ -233,7 +233,7 @@ That said, we see a pattern of message from people who join mainly to encourage 
 
 All of these, and any other message that fits into a similar pattern, are strongly discouraged and may be deleted at the discretion of the admin team.
 
-When deciding whether or not a message should be removed, we consider the following
+When deciding whether or not a message should be removed, we consider the following:
 
 * is the person posting the message a long-standing member of the community with a history of valuable contributions? If yes, then their request is probably OK. If it's a brand new account that joined just to post the promotional message, we'll likely remove.
 * is the message in an appropriate channel? For things that you have built as an individual and want to share with the community, you can use #show. If you want to get input on a survey, we have #surveys. For companies, you can use #shameless-advertising. If your message is in one of these channels, it will be treated more leniently than if it is in the other channels. Again, these channels are mainly intended for people who are already part of the community to share things that they are involved in and want to promote, and if you join to only use these channels, your messages will likely be removed.
@@ -251,7 +251,7 @@ Intentionally evading exclusions, bans, suspensions, restrictions, or otherwise 
 
 ## Terms and Conditions
 
-The Operators may, but are not obligated to, monitor or review any areas on the Slack where users transmit or post communications or communicate solely with each other, including but not limited to public and private channels, and the content of any such communications. The Operators, however, will have no liability related to the content of any such communications, whether or not arising under the laws of copyright, libel, privacy, obscenity, or otherwise. The Operators may edit or remove content on the the Slack at their discretion at any time.
+The Operators may, but are not obligated to, monitor or review any areas on the Slack where users transmit or post communications or communicate solely with each other, including but not limited to public and private channels, and the content of any such communications. The Operators, however, will have no liability related to the content of any such communications, whether or not arising under the laws of copyright, libel, privacy, obscenity, or otherwise. The Operators may edit or remove content on the Slack Workspace at their discretion at any time.
 
 ## Privacy and AI-assisted moderation
 
