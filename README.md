@@ -109,7 +109,6 @@ If you are being harassed by a member of ZATech, notice that someone else is bei
   * Create a private channel called `admins-$YOUR_USERNAME`, e.g. `admins-cdanvers`
   * Invite the admin team to your new private channel using `/invite @adminteam`
 * DM an [administrator](https://zatech.slack.com/account/workspace-settings#admins)
-* Submit an [anonymous report](https://zatech.co.za/report)
 
 This code of conduct applies to ZATech spaces, but if you are being harassed by a member of ZATech outside of our spaces, we still want to know about it. We will take all good-faith reports of harassment by ZATech members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from ZATech based on their past behavior, including behavior outside ZATech spaces and behavior towards people who are not members of the ZATech community.
 
