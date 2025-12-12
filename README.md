@@ -6,29 +6,25 @@
 
 When posting:
 
-* Avoid divisive topics, such as political or religious debates
-* All content must be family friendly and 'safe for work'
-* Be polite and respectful, including to non-members
-* Don't be self-promotional
+- Avoid divisive topics, such as political or religious debates
+- All content must be family friendly and 'safe for work'
+- Be polite and respectful, including to non-members
+- Don't be self-promotional or spam the same thing across multiple channels
 
 In general:
 
-* Do not harass people
-* Do not share personal information of others with people outside the community
+- Do not harass people
+- Do not share personal information of others with people outside the community
 
 This is a safe space, let's keep it that way.
 
 ## General guidelines
 
-Be kind. Don't be snarky. Comments should get more thoughtful and substantive, not less, as a topic gets more divisive.
-
-When disagreeing, please reply to the argument instead of calling names. "That is idiotic; 1 + 1 is 2, not 3" can be shortened to "1 + 1 is 2, not 3."
-
-Please respond to the strongest plausible interpretation of what someone says, not a weaker one that's easier to criticize. Assume good faith.
-
-Eschew flamebait. Don't introduce flamewar topics unless you have something genuinely new to say. Avoid unrelated controversies and generic tangents.
-
-Please don't post shallow dismissals, especially of other people's work, thoughts or opinions. A good critical comment teaches us something.
+- Be kind. Don't be snarky. Comments should get more thoughtful and substantive, not less, as a topic gets more divisive.
+- When disagreeing, please reply to the argument instead of calling names. "That is idiotic; 1 + 1 is 2, not 3" can be shortened to "1 + 1 is 2, not 3."
+- Please respond to the strongest plausible interpretation of what someone says, not a weaker one that's easier to criticize. Assume good faith.
+- Eschew flamebait. Don't introduce flamewar topics unless you have something genuinely new to say. Avoid unrelated controversies and generic tangents.
+- Please don't post shallow dismissals, especially of other people's work, thoughts or opinions. A good critical comment teaches us something.
 
 ## Channels
 
@@ -88,6 +84,14 @@ Harassment includes:
 While the community aims to be a place for members of the community to meet and connect, it's also important to respect each other's privacy. In general, it's polite to ask in a public channel for permission to DM another member before doing so.
 
 We take a strong stance to any DM spam. If you send unsolicited self-promotional messages by DM to any of our members, you may be banned from our community without further warning.
+
+## Cross posting
+
+Sometimes you want to post something that could fit into two different channels. For example, if you're working on a tricky Python problem, maybe it's relevant to #python and #algorithms. In general, you should only post your message to a single channel, as many people are in a lot of channels and don't want to read the same postings twice.
+
+Use your judgement or ask an admin if you're not sure. Sometimes it's OK to cross post, but usually not. When cross posting, you should always do it by posting once, copying a link to that message, and posting the link in another channel. This lets people follow the conversation if both channels have follow up conversations. Don't copy-paste the same content into multiple channels.
+
+We're more open to cross-posting if it's something that clearly benefits the community. We're almost never OK with cross posting for self promotional messages.
 
 ## Conduct specific to job postings and recruitment activities
 
